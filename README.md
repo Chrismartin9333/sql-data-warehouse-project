@@ -1,6 +1,7 @@
 # Data Warehouse and Analytics Project
 
 This Project demonstrates a comprehensive data warehouse and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project it highlights industry best practices in data engineering and analytics
+
 ---
 
 ## 🚀 Project Requirements
@@ -31,3 +32,6 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
+## 🛡️ License
+
+[MIT](LICENSE). Use it, change it, share it, with attribution.
